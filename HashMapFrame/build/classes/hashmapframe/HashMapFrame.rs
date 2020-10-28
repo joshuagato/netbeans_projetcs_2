@@ -1,0 +1,2 @@
+hashmapframe.MyInternalFrame
+hashmapframe.HashMapFrame
